@@ -10,3 +10,10 @@ initialize git repository
 
 " git status "
 To track the folder
+
+" git add filename  "
+To add file into repository
+
+
+"  git commit -m "message"  "
+To submit changes
