@@ -1,0 +1,12 @@
+''   git config  --global user.name "Thomas T Sojan"   ''
+"   git config --global user.email   thomastsojan97@gmail.com    "
+ 
+initial step for configuring git.By adding username and password.
+
+
+"  git init  "
+initialize git repository
+
+
+" git status "
+To track the folder
