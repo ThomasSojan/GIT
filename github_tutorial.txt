@@ -14,6 +14,8 @@ To track the folder
 " git add filename  "
 To add file into repository
 
+"   git add --all   "
+To add all files in a folder
 
 "  git commit -m "message"  "
 To submit changes
