@@ -17,3 +17,9 @@ To add file into repository
 
 "  git commit -m "message"  "
 To submit changes
+
+"git log"
+To print detatails about head & master and commit-id details etc
+
+"git checkout commit-id"
+To shift the HEAD back to some specfic commit by doing so the actual pgm is changed back to that respective version.
