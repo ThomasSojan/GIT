@@ -12,4 +12,18 @@ Further commit will occur in new branch
 
 "   git merge branch2   "
 
-merge master -> branch2
+merge master -> branch2 (merges are of different types one forward merge,recursive merge)
+
+
+
+"   git diff    "
+
+shows the modification
+
+
+
+"   git stash   "
+
+switch to previous commit
+
+

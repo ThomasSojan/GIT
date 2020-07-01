@@ -1,4 +1,4 @@
-''   git config  --global user.name "Thomas T Sojan"   ''
+"   git config  --global user.name "Thomas T Sojan"   "
 "   git config --global user.email   thomastsojan97@gmail.com    "
  
 initial step for configuring git.By adding username and password.
@@ -20,8 +20,11 @@ To add all files in a folder
 "  git commit -m "message"  "
 To submit changes
 
-"git log"
+"   git log "
 To print detatails about head & master and commit-id details etc
 
-"git checkout commit-id"
+"   git log --all --decorate --graph    "
+print log in graph form
+
+"   git checkout commit-id  "
 To shift the HEAD back to some specfic commit by doing so the actual pgm is changed back to that respective version.
