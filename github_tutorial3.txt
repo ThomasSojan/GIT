@@ -9,3 +9,6 @@ Display names of remotes that are added
 
 "   git clone url   "
 Clone the repository and work in different system.
+
+"   git push origin branch_name "
+push  changes from second computer
