@@ -1,0 +1,7 @@
+"   git remote add remote_name url "
+To add remote repository
+
+"   git remote  "
+Display names of remotes that are added
+
+" git push remote_name branch_name  "
