@@ -7,3 +7,5 @@ Display names of remotes that are added
 " git push remote_name branch_name  "
 
 
+"   git clone url   "
+Clone the repository and work in different system.
