@@ -12,3 +12,7 @@ Clone the repository and work in different system.
 
 "   git push origin branch_name "
 push  changes from second computer
+
+"   git pull remote_name branch     "
+before doing changes we need to pull changesfrom remote server otherwise conflict occurs
+
